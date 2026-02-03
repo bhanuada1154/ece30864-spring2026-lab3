@@ -15,8 +15,3 @@ uncertain Budgets and Timelines
 q2:
 While both are leaders, the Product Owner is responsible for the product's success, whereas the Scrum Master is responsible for the team's effectiveness. 
 
-q3:
-Sprint Planning (defining work), Daily Scrum/Standup (tracking progress), and the Sprint Review (demoing results and improving processes)
-
-q4:
-Epics are large, multi-sprint initiatives, while User Stories are small, user-focused features completed in one sprint. Tasks are specific technical to-dos, and Bugs are unplanned fixes for defects
